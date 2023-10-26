@@ -21,7 +21,7 @@ function getFullName(user) {
     lastname: 'saakadze',
     age: 32,
     isloggedin: true
-  };
+  };;
   
   
   let fullName = getFullName(user);
